@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="Theme.MyApp" parent="Theme.Material3.DayNight">
+        <!-- Personalización opcional -->
+        <item name="colorControlActivated">@color/fondo2</item> <!-- color del borde activo -->
+        <item name="colorControlNormal">@color/fondo2</item>    <!-- color del borde cuando no está seleccionado -->
+        <item name="colorOutline">@color/fondo2</item>
+
+    </style>
+
+</resources>
